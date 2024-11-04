@@ -8,10 +8,6 @@
 }}
 
 ==A==
-[[File:Gene Autry.JPG|thumb|right|140px|[[Gene Autry]]]]
-[[File:Eddie Arnold 1969.JPG|thumb|right|140px|[[Eddy Arnold]]]]
-[[File:Roy Acuff 1950.JPG|thumb|right|140px|[[Roy Acuff]]]]
-[[File:Rodney Atkins pointing up.jpg|thumb|right|140px|[[Rodney Atkins]]]]
 
 {{columns-list|colwidth=30em|
 *[[The Abrams Brothers]]
@@ -87,9 +83,6 @@
 }}
 
 ==B==
-[[File:Clint Black at Chumash Casino crop.jpg|thumb|right|140px|[[Clint Black]]]]
-[[File:Garth Brooks.jpg|thumb|right|140px|[[Garth Brooks]]]]
-[[File:Luke Bryan in 2008.JPG|thumb|right|140px|[[Luke Bryan]]]]
 
 {{columns-list|colwidth=30em|
 *[[Barrett Baber]] (born 1980)
@@ -286,9 +279,6 @@
 }}
 
 ==C==
-[[File:Carter Family 1927.jpg|thumb|right|140px|The [[Carter Family]]]]
-[[File:Patsy Cline II.jpg|thumb|right|140px|[[Patsy Cline]]]]
-[[File:JohnnyCash1969.jpg|thumb|right|140px|[[Johnny Cash]]]]
 
 {{columns-list|colwidth=30em|
 *[[Cactus Choir (band)|Cactus Choir]]
@@ -485,8 +475,6 @@
 }}
 
 ==D==
-[[File:John Denver 1973.jpg|thumb|right|140px|[[John Denver]]]]
-[[File:Charlie Daniels in 2017.jpg|thumb|right|140px|[[Charlie Daniels]]]]
 
 {{columns-list|colwidth=30em|*[[Dailey & Vincent]]
 *[[Vernon Dalhart]] (1883–1948)
@@ -590,8 +578,6 @@
 }}
 
 ==E==
-[[File:Everly Brothers 1970.JPG|thumb|right|140px|[[The Everly Brothers]]]]
-[[File:Eagles.jpg|thumb|right|140px|[[Eagles (band)|The Eagles]]]]
 
 {{columns-list|colwidth=30em|
 *[[Jason Eady]]
@@ -650,8 +636,6 @@
 }}
 
 ==F==
-[[File:Florida Georgia Line Night Train Tour 2014.jpg|thumb|right|140px|[[Florida Georgia Line]]]]
-[[File:Tennessee Ernie Ford 1957.JPG|thumb|right|140px|[[Tennessee Ernie Ford]]]]
 
 {{columns-list|colwidth=30em|
 *[[Barbara Fairchild]] (born 1950)
@@ -722,7 +706,6 @@
 }}
 
 ==G==
-[[File:Woody Guthrie 2.jpg|140px|thumb|right|[[Woody Guthrie]]]]
 
 {{columns-list|colwidth=30em|
 *[[Chris Gaffney (musician)|Chris Gaffney]]
@@ -803,9 +786,6 @@
 }}
 
 ==H==
-[[File:Ferlin Husky 1962.JPG|thumb|right|140px|[[Ferlin Husky]]]]
-[[File:Emmylouharrissf2005.jpg|thumb|right|140px|[[Emmylou Harris]]]]
-[[File:Merle Haggard in concert 2013.jpg|thumb|right|140px|[[Merle Haggard]]]]
 
 {{columns-list|colwidth=30em|
 *[[The Hackensaw Boys]]
@@ -971,9 +951,7 @@
 }}
 
 ==J==
-[[File:Alan jackson at pentagon.jpg|thumb|right|140px|[[Alan Jackson]]]]
-[[File:Waylon Jennings in 1976.jpg|thumb|right|140px|[[Waylon Jennings]]]]
-[[File:Defense.gov photo essay 081209-F-9999H-101 cropped.jpg|thumb|right|140px|[[The Judds]]]]
+
 
 {{columns-list|colwidth=30em|
 *[[Alan Jackson]] (born 1958)
@@ -1053,10 +1031,7 @@
 }}
 
 ==K==
-[[File:Kristofferson - 78.jpg|thumb|right|[[Kris Kristofferson]]]]
-[[File:Toby Keith in concert.jpg|thumb|right|140px|[[Toby Keith]]]]
-[[File:Brett Kissel.jpg|thumb|right|140px|[[Brett Kissel]]]]
-[[Image:AlisonKraussCrossroads2007.jpg|thumb|right|140px|[[Alison Krauss]]]]
+
 
 {{columns-list|colwidth=30em|
 *[[Ted Russell Kamp]]
@@ -1126,10 +1101,6 @@
 }}
 
 ==L==
-[[File:Jerry Lee Lewis 1950s publicity photo cropped retouched.jpg|thumb|right|140px|[[Jerry Lee Lewis]]]]
-[[File:Loretta Lynn.jpg|thumb|right|140px|[[Loretta Lynn]]]]
-[[File:Miranda Lambert.jpg|thumb|right|140px|[[Miranda Lambert]]]]
-[[File:Lady A - Charlotte 12-27-12-39.jpg|thumb|right|140px|[[Lady A]]]]
 
 {{columns-list|colwidth=30em|
 *[[La Costa]] (born 1951)
@@ -1236,9 +1207,6 @@
 }}
 
 ==M==
-[[File:Anne_Murray.jpg|thumb|right|140px|[[Anne Murray]]]]
-[[File:Barbara Mandrell DN-ST-87-03190.JPEG|thumb|right|140px|[[Barbara Mandrell]]]]
-[[File:RebaMcEntireApr10.jpg|thumb|right|140px|[[Reba McEntire]]]]
 
 {{columns-list|colwidth=30em|
 *[[Mary MacGregor]] (born 1948)
@@ -1441,7 +1409,6 @@
 }}
 
 ==N==
-[[File:Willie Nelson Promotional Photo - cropped.jpg|thumb|right|140px|[[Willie Nelson]]]]
 
 {{columns-list|colwidth=30em|
 *[[David Nail]] (born 1979)
@@ -1483,7 +1450,6 @@
 }}
 
 ==O==
-[[File:Buck Owens.jpg|thumb|right|140px|[[Buck Owens]]]]
 
 {{columns-list|colwidth=30em|
 *[[The Oak Ridge Boys]]
@@ -1527,8 +1493,6 @@
 }}
 
 ==P==
-[[File:Dolly Parton accepting Liseberg Applause Award 2010 portrait.jpg|thumb|right|140px|[[Dolly Parton]]]]
-[[File:Brad Paisley at the White House.jpg|thumb|right|140px|[[Brad Paisley]]]]
 
 {{columns-list|colwidth=30em|
 *[[Patti Page]] (1927–2013)
@@ -1628,8 +1592,6 @@
 }}
 
 ==R==
-[[File:Tex Ritter 1966.JPG|thumb|right|140px|[[Tex Ritter]]]]
-[[File:Marty Robbins 1966.JPG|thumb|right|140px|[[Marty Robbins]]]]
 
 {{columns-list|colwidth=30em|
 *[[Eddie Rabbitt]] (1941–1998)
@@ -1701,7 +1663,7 @@
 *[[Riders in the Sky (band)|Riders in the Sky]]
 *[[Owen Riegling]]
 *[[Sam Riggs]]
-*[[Lex Rijger]] (1944–2021)<ref name="rijger">{{Cite web|last=Wajwakana|first=Audry|date=2021-07-02|title=Lex Rijger was een coole guy|url=http://www.dwtonline.com/laatste-nieuws/2021/07/02/lex-rijger-was-een-coole-guy/|access-date=2021-07-05|website=De Ware Tijd|language=nl}}</ref> 
+*[[Lex Rijger]] (1944–2021)
 *[[Jeannie C. Riley]] (born 1945)
 *[[LeAnn Rimes]] (born 1982)
 *[[Cowboy Slim Rinehart]] (1911–1948)
@@ -1765,10 +1727,6 @@
 }}
 
 ==S==
-[[File:Hanksnowpromoimage.jpg|thumb|right|140px|[[Hank Snow]]]]
-[[File:George Strait on stage.jpg|thumb|right|140px|[[George Strait]]]]
-[[File:BlakeSheltonApr10.jpg|thumb|right|140px|[[Blake Shelton]]]]
-[[File:Taylor Swift - Speak Now World Tour Sydney 2012.jpg|thumb|right|140px|[[Taylor Swift]]]]
 
 {{columns-list|colwidth=30em|
 *[[S-K-O]]
@@ -1966,9 +1924,6 @@
 }}
 
 ==T==
-[[File:Randytravis.jpg|thumb|right|140px|[[Randy Travis]]]]
-[[File:Travis-Tritt.jpg|thumb|right|140px|[[Travis Tritt]]]]
-[[File:ShaniaTwain3.jpg|thumb|right|140px|[[Shania Twain]]]]
 
 {{columns-list|colwidth=30em|
 *[[The Tallest Man on Earth]] (born 1983)
@@ -2063,8 +2018,7 @@
 }}
 
 ==U==
-[[File:Carrie_Underwood_2,_2012.jpg|thumb|right|140px|[[Carrie Underwood]]]]
-[[File:Keith Urban in PoAH (cropped).JPG|thumb|right|140px|[[Keith Urban]]]]
+
 
 {{columns-list|colwidth=30em|
 *[[Donna Ulisse]]
@@ -2078,7 +2032,6 @@
 }}
 
 ==V==
-[[File:Phil Vassar at Merced County Fair 2007.jpg|thumb|right|[[Phil Vassar]]]]
 
 {{columns-list|colwidth=30em|
 *[[Valdy]]
@@ -2101,10 +2054,6 @@
 }}
 
 ==W==
-[[File:Hank Williams Promotional Photo.jpg|thumb|right|140px|[[Hank Williams]]]]
-[[File:Porter wagoner 1999.jpg|thumb|right|140px|[[Porter Wagoner]]]]
-[[File:Donwilliams.jpg|thumb|right|140px|[[Don Williams]]]]
-[[File:Tammy Wynette 1977.jpg|thumb|right|[[Tammy Wynette]]]]
 
 {{columns-list|colwidth=30em|
 *[[Morgan Wade (singer)|Morgan Wade]] (born 1994)
@@ -2253,8 +2202,6 @@
 }}
 
 ==Y==
-[[File:Trisha Yearwood USO 2010.jpg|thumb|right|140px|[[Trisha Yearwood]]]]
-[[File:Chris young .jpg|thumb|right|140px|[[Chris Young (singer)|Chris Young]]]]
 
 {{columns-list|colwidth=30em|
 *[[Yankee Grey]]
@@ -2273,7 +2220,6 @@
 }}
 
 ==Z==
-[[File:Zac_Brown_Band_161020-A-HD608-080_%2830797232664%29.jpg|thumb|right|[[Zac Brown Band]]]]
 
 {{columns-list|colwidth=30em|
 *[[Zac Brown Band]]
